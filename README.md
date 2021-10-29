@@ -48,4 +48,4 @@ I'm not accepting pull requests since it's a project made to learn/study some th
 
 ## License
 
-It's private code (even if this repository is public) and will look for an appropriate license soon.
+Copyright © 2021 Caique Cunha Pereira
