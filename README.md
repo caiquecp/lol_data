@@ -16,7 +16,7 @@ We are using a `.env` file to setup the configuration.
 
 | env | description | required |
 |---|---|---|
-| api_url_champions | Riot API URL for champions JSON | yes |
+| champions_api_url | Riot API URL for champions JSON | yes |
 | champions_key_selection | List of keys (fields) to consider when fetching champions data | yes |
 | champions_data_path | Path to save champions data as JSON | yes |
 

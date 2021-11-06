@@ -3,7 +3,7 @@ from pydantic import BaseSettings
 
 
 class Settings(BaseSettings):
-    api_url_champions: str
+    champions_api_url: str
     champions_key_selection: List[str]
     champions_data_path: str
 
